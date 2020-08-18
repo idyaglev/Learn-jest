@@ -1,2 +1,6 @@
+---
+env:
+  node: true
+
 - name: Checkout
   uses: actions/checkout@v2.3.2
